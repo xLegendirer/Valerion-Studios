@@ -14,8 +14,10 @@
 ### 1.1. Sözleşmenin Tarafları
 İşbu Hizmet Kullanım Sözleşmesi ("Sözleşme" veya "TOS"), **Valerion Studios / Valerion Network** ("Şirket", "Platform", "Biz", "Altyapı", "Sistem") ile Valerion Ekosistemi bünyesindeki Discord sunucularına katılan, altyapıda barındırılan bot servislerini kullanan, komut çalıştıran veya bu altyapıyla dolaylı/doğrudan etkileşime giren tüm gerçek ve tüzel kişiler ("Kullanıcı", "Üye", "Siz", "Son Kullanıcı") arasında hukuki olarak bağlayıcı bir şekilde akdedilmiştir.
 
-### 1.2. Hukuki Onay ve Kabul
-Valerion Network platformuna erişim sağlayarak, sunuculara katılarak, herhangi bir slash (`/`) komutunu tetikleyerek, ses kanallarına giriş yaparak, veritabanı senkronizasyon süreçlerine dahil olarak veya OwO/sanal ödeme sistemleri üzerinden işlem gerçekleştirerek işbu Sözleşme'nin tüm maddelerini, eklerini, politikalarını ve gelecekte yapılabilecek güncellemeleri koşulsuz ve kısıtlamasız olarak kabul etmiş sayılırsınız.
+### 1.2. Hukuki Onay, Tek Komut Onayı ve Otomatik Kabul
+* **1.2.1. İncelenmişlik Beyanı:** Valerion Network platformuna erişim sağlayarak, sunuculara katılarak veya altyapıda barındırılan 6 bottan herhangi birini etkileşime sokarak işbu Sözleşme'nin tüm maddelerini kabul etmiş sayılırsınız.
+* **1.2.2. Tek Komut / Etkileşim İle Onay (Single-Command Consent):** Valerion Ekosistemi bünyesindeki herhangi bir bot üzerinde **TEK BİR SLASH (`/`) VEYA PREFİKS (`!`) KOMUTUNUN ÇALIŞTIRILMASI, SES KANALLARINA GİRİŞ YAPILMASI VEYA BUTON/MENÜ ETKİLEŞİMİNDE BULUNULMASI**, kullanıcının işbu Hizmet Şartları'nı, Gizlilik Politikasını, Topluluk Kurallarını ve Guard Güvenlik Politikası'nı tamamen okuduğu, anladığı ve **KOŞULSUZ OLARAK KABUL ETTİĞİ** anlamına gelir.
+* **1.2.3. Onayın Bağlayıcılığı:** "Okumadım", "Görmedim" veya "Haberim Yoktu" beyanları hukuki geçersizlik teşkil etmez; ilk komut kullanımıyla birlikte onay veritabanı zaman damgaları (ISO 8601) ile eşleşerek bağlayıcı hale gelir.
 
 ### 1.3. Şartların Reddi Halinde Prosedür
 İşbu Sözleşme'de yer alan şartlardan herhangi birini kabul etmiyorsanız, Valerion Network altyapısına bağlı tüm servislerin kullanımına derhal son vermeli, etkileşimli bot komutlarını çalıştırmayı bırakmalı ve bağlı bulunduğunuz topluluk sunucularından ayrılmalısınız. Aksi takdirde altyapıda gerçekleştirdiğiniz her işlem işbu Sözleşme hükümleri çerçevesinde değerlendirilecektir.
