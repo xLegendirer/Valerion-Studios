@@ -2,7 +2,7 @@
 
 **Son Güncelleme:** 17 Ağustos 2026  
 **Yürürlük Tarihi:** 17 Ağustos 2026  
-**Sürüm:** v3.0.0-ENTERPRISE  
+**Sürüm:** v7.0.0-ENTERPRISE  
 
 ---
 
