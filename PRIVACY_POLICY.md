@@ -78,4 +78,4 @@ Kullanıcılar platformumuz üzerinde aşağıdaki haklara sahiptir:
 ---
 
 ## 7. İLETİŞİM VE DESTEK
-Gizlilik Politikası veya kişisel verilerinizin işlenmesiyle ilgili soru, görüş ve talepleriniz için resmi Discord sunucumuz üzerinden veya `lucianof.com` destek kanallarından geliştirici ekibimize ulaşabilirsiniz.
+Gizlilik Politikası veya kişisel verilerinizin işlenmesiyle ilgili soru, görüş ve talepleriniz için resmi Discord sunucumuz üzerinden destek kanallarından geliştirici ekibimize ulaşabilirsiniz.
